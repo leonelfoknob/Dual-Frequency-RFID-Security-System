@@ -8,7 +8,7 @@ Project Video link:
 Components:
 - 125KHz RFID Module (Wiegand Protocol):
   
-  - Function: This module is used for reading low-frequency RFID cards (typically 125kHz or 25kHz), providing support for legacy access control systems that rely on this technology.
+  - Function: This module is used for reading low-frequency RFID cards (typically 125kHz), providing support for legacy access control systems that rely on this technology.
   - Wiegand Protocol: The module uses the Wiegand protocol, which is widely recognized in security systems, ensuring compatibility with various control devices and access systems.
 
 - MFRC522 RFID 13.58 MHz Reader:
@@ -24,7 +24,7 @@ Components:
 Key Features:
 - Dual RFID Frequencies:
 
-  -The system allows users to choose between the 25KHz RFID and the 13.58 MHz RFID, providing flexibility in terms of card compatibility.
+  -The system allows users to choose between the 125KHz RFID and the 13.58 MHz RFID, providing flexibility in terms of card compatibility.
   This dual-frequency setup enhances security, as it enables the use of both legacy and modern RFID systems within a single device.
 - Single Device, Multiple Card Options:
   Users can change the card type at any time without replacing the RFID reader. This is especially useful in environments where security policies might change over time or across  different systems.
