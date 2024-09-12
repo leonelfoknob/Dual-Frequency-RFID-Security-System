@@ -31,11 +31,11 @@ Key Features:
   The system can be easily customized to switch between card types depending on user preferences or security needs.
 
 - Customizable Security:
-  The user can specify which card type they want to use for their access control system, giving them greater control over their security preferences.
+  - The user can specify which card type they want to use for their access control system, giving them greater control over their security preferences.
 The system’s ability to adapt to both card types provides enhanced security and functionality, reducing the need for redundant hardware.
 
 Applications:
-  This project is particularly useful in environments where security is critical, such as office buildings, labs, or data centers. It allows seamless integration of both legacy and modern card systems, making it easy to upgrade without overhauling the entire infrastructure.
+  - This project is particularly useful in environments where security is critical, such as office buildings, labs, or data centers. It allows seamless integration of both legacy and modern card systems, making it easy to upgrade without overhauling the entire infrastructure.
 
 Modularity and Future Improvements:
   - Easy Upgrades: The modular nature of this system allows for easy upgrades, enabling future enhancements such as biometric integration or additional security layers.
