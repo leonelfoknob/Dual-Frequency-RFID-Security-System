@@ -3,7 +3,7 @@
 This project focuses on enhancing security by integrating two different RFID technologies into a single system, allowing users to choose between frequencies and card types without needing multiple readers. The flexibility and adaptability of this system make it ideal for a wide range of security applications.
 
 Project Video link:
-  -video link
+  - https://youtu.be/a7hXfGbaxkY
 
 Components:
 - 125KHz RFID Module (Wiegand Protocol):
