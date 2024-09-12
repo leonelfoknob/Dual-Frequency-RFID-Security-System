@@ -45,3 +45,8 @@ Project Diagram:
   A detailed electronic diagram and a video showcasing the system in action will be included.
 
   ![rfid_wiegand_mfrc522_elektronik_diyagram](https://github.com/user-attachments/assets/7bd8d07a-5f27-4231-a163-3f43b484737b)
+
+Necessary link to expend your reseach : 
+  - https://electropeak.com/learn/interfacing-125khz-rfid-module-wiegand-protocol-with-arduino/
+  - https://github.com/monkeyboard/Wiegand-Protocol-Library-for-Arduino
+  - https://github.com/jpliew/Multi-Reader-Wiegand-Protocol-Library-for-Arduino/blob/master/src/WiegandMulti.cpp
